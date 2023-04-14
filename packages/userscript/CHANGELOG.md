@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.7.0](https://github.com/pionxzh/chatgpt-exporter/compare/userscript-v2.6.5...userscript-v2.7.0) (2023-04-14)
+
+
+### Features
+
+* support i18n ([918ff41](https://github.com/pionxzh/chatgpt-exporter/commit/918ff41dc459d228e0c5e09dead41b1abc1c2f4e)), closes [#91](https://github.com/pionxzh/chatgpt-exporter/issues/91)
+* use the same Toggle as ChatGPT's setting ([0f91b56](https://github.com/pionxzh/chatgpt-exporter/commit/0f91b5698bd0e01c9f5d1008062fb48a3e93e7cc))
+
 ## [2.6.5](https://github.com/pionxzh/chatgpt-exporter/compare/userscript-v2.6.4...userscript-v2.6.5) (2023-04-14)
 
 
